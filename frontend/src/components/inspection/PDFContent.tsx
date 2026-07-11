@@ -244,7 +244,7 @@ const PDFContent: React.FC<PDFContentProps> = ({ inspectionData }) => {
       <div style={{ textAlign: 'center', marginTop: '40px', paddingTop: '20px', borderTop: '1px solid #e5e7eb' }}>
         <p style={{ fontSize: '12px', color: '#6b7280' }}>
           © 2025 PDC Pro. All rights reserved.<br />
-          Made by <span style={{ color: '#2563eb' }}>Karishma</span>
+          Made by <span style={{ color: '#2563eb' }}>Rajeev Bamal</span>
         </p>
       </div>
     </div>
