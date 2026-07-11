@@ -233,7 +233,7 @@ const Dashboard: React.FC = () => {
 
         <div className="mt-8 text-center text-xs text-gray-500">
           © 2025 PDC Pro. All rights reserved.<br />
-          Made with love by <span className="text-blue-600">Karishma</span>
+          Made with love by <span className="text-blue-600">Rajeev Bamal</span>
         </div>
       </div>
     </div>
