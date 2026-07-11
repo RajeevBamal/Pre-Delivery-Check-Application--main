@@ -1,11 +1,9 @@
 [build]
   base    = "frontend"
   command = "npm install && npm run build"
-  publish = "frontend/dist"
-
+  publish = "dist"
 [build.environment]
   NODE_VERSION = "20"
-
 # SPA redirect — all routes served by index.html
 [[redirects]]
   from   = "/*"
